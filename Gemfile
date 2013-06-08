@@ -10,6 +10,7 @@ group :development, :test do
   gem 'guard-spork', '1.2.0'
   gem 'childprocess', '0.3.6'
   gem 'spork', '0.9.2'
+  gem 'terminal-notifier-guard', '1.5.3'
 end
 
 # Gems used only for assets and not required
